@@ -2,18 +2,15 @@
 
 ## Team Information
 * **Team Name:** Team OMID
-* **Faculty/Industry Advisor:** Mohsen Rezayat
+* **Faculty/Industry Advisor:** Mohsen Rezayat (mohsen.rezayat@omid-usa.org)
 
 ## Team Members
-* **Shashank Sathiyanarayanan** 
-  * Major: Computer Science 
+* **Shashank Sathiyanarayanan**  
+  * Major: Computer Science  
   * Email: sathiysk@mail.uc.edu
-* **[Team Member 2 Name]** 
-  * Major: [Major] 
-  * Email: [Email]
-* **[Team Member 3 Name]** 
-  * Major: [Major] 
-  * Email: [Email]
+* **Arleen Monteiro**  
+  * Major: Computer Science  
+  * Email: monteiak@mail.uc.edu
 
 ## Project Topic Area
 Transparent Organic Photovoltaics (OPVs) for Agricultural Energy Generation
